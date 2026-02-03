@@ -149,10 +149,10 @@ O bot inclui um sistema de verificação de integridade que:
 
 📞 Suporte
 
-· Criador: Meliodas (ID: 1389706621697134674)
+· Criador: Meliodas (Discord: @wwttzim)
 · GitHub: https://github.com/meliodasdev337
 · Servidor Discord: https://discord.gg/awsupjWb9x
-· Base pública: https://github.com/meliodasdev337/base-bot
+· Base pública: https://github.com/meliodasdev337/Base-em-python
 
 📄 Licença
 
