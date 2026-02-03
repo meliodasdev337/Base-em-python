@@ -1,40 +1,45 @@
-```markdown
-# Base.py 🤖
+Base.py 🤖
 
 Um bot Discord moderno e completo desenvolvido em Python usando Discord.py, com interface interativa, IA integrada e sistema de moderação.
 
-## ✨ Funcionalidades
+Funcionalidades
 
-### 🎮 Comandos de Usuário
-- **`/ping`** - Painel de status interativo com latência, uptime e status da API Discord
-- **`/userinfo`** - Informações detalhadas sobre usuários (cargos, badges, status, atividade)
-- **`/creditos`** - Informações sobre o criador e links importantes
+Comandos de Usuário
 
-### ⚔️ Comandos de Moderação
-- **`/ban`** - Banir usuários com motivo e confirmação
-- **`/unban`** - Remover banimento por ID
-- **`/lock`** - Trancar/destrancar canais com botão interativo
+· /ping - Painel de status interativo com latência, uptime e status da API Discord
+· /userinfo - Informações detalhadas sobre usuários (cargos, badges, status, atividade)
+· /creditos - Informações sobre o criador e links importantes
 
-### 🧠 IA Integrada
-- Respostas inteligentes quando o bot é mencionado
-- Usa Mistral AI API para respostas contextuais
-- Personalidade customizada como assistente do Discord
+Comandos de Moderação
 
-### 🎨 Recursos Extras
-- Sistema de emojis personalizados automático
-- MongoDB integrado para futuras funcionalidades
-- Interface com botões e menus interativos
-- Status customizável via config.json
+· /ban - Banir usuários com motivo e confirmação
+· /unban - Remover banimento por ID
+· /lock - Trancar/destrancar canais com botão interativo
 
-## 🚀 Instalação
+IA Integrada
 
-### 1. Pré-requisitos
-- Python 3.11 ou superior
-- Conta no Discord Developer Portal
-- Token do bot Discord
-- (Opcional) Chave da API Mistral AI
+· Respostas inteligentes quando o bot é mencionado
+· Usa Mistral AI API para respostas contextuais
+· Personalidade customizada como assistente do Discord
 
-### 2. Clonar o repositório
+Recursos Extras
+
+· Sistema de emojis personalizados automático
+· MongoDB integrado para futuras funcionalidades
+· Interface com botões e menus interativos
+· Status customizável via config.json
+
+Instalação
+
+1. Pré-requisitos
+
+· Python 3.11 ou superior
+· Conta no Discord Developer Portal
+· Token do bot Discord
+· (Opcional) Chave da API Mistral AI
+
+2. Clonar o repositório
+
 ```bash
 git clone https://github.com/meliodasdev337/base-bot.git
 cd base-bot
@@ -87,7 +92,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-📁 Estrutura do Projeto
+Estrutura do Projeto
 
 ```
 base-bot/
@@ -108,7 +113,7 @@ base-bot/
 └── requirements.txt  # Dependências
 ```
 
-🔧 Configuração Avançada
+Configuração Avançada
 
 Configuração de Status
 
@@ -139,7 +144,7 @@ Para usar a IA:
 3. Mencione o bot em qualquer canal
 4. Ele responderá com IA
 
-⚠️ Proteção de Créditos
+Proteção de Créditos
 
 O bot inclui um sistema de verificação de integridade que:
 
@@ -147,18 +152,18 @@ O bot inclui um sistema de verificação de integridade que:
 · Impede a inicialização se arquivos essenciais forem removidos
 · Garante que o comando /creditos sempre mostre o criador original
 
-📞 Suporte
+Suporte
 
 · Criador: Meliodas (Discord: @wwttzim)
 · GitHub: https://github.com/meliodasdev337
 · Servidor Discord: https://discord.gg/awsupjWb9x
 · Base pública: https://github.com/meliodasdev337/Base-em-python
 
-📄 Licença
+Licença
 
 Este projeto é de código aberto. Você pode usá-lo, modificá-lo e distribuí-lo livremente, mas deve manter os créditos ao criador original (Meliodas) no comando /creditos.
 
-🤝 Contribuição
+Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para:
 
@@ -166,5 +171,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 2. Sugerir novas funcionalidades
 3. Enviar pull requests
 
-
-✨ Criado com ❤️ por Meliodas ✨
+Criado com ❤️ por Meliodas
