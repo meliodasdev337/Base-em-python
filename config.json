@@ -1,0 +1,8 @@
+{
+  "token": "TOKEN DO SEU BOT",
+  "guild_id": "id do seu servidor",
+  "owners": [
+    "seu id"
+  ],
+  "mistral_api_key": "Key aqui"
+}
