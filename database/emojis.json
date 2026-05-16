@@ -1,0 +1,42 @@
+[
+  {
+    "name": "certo",
+    "image": "https://photo.hakari.fun/uploads/WEBSITE/b52fedeb-b4b24664-03022026-1000137922.png"
+  },
+  {
+    "name": "erro",
+    "image": "https://photo.hakari.fun/uploads/WEBSITE/746902b5-72fa1eb9-03022026-1000137709.png"
+  },
+  {
+     "name": "tempo",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/3704f57a-b032fb71-03022026-1000137712.png"
+  },
+  {
+     "name": "status",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/934f6a18-cfc07282-03022026-1000138076.png"
+  },
+  {
+     "name": "net",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/77e9145c-b1ebbd98-03022026-1000137377.gif"
+  },
+  {
+     "name": "latencia",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/d87bae57-b3a324c3-03022026-1000139123.png"
+  },
+  {
+     "name": "atualizar",
+      "image": "https://photo.hakari.fun/uploads/WEBSITE/ae3b42c9-ebf03977-03022026-1000137583.png"
+  },
+  {
+     "name": "info",
+     "image":  "https://photo.hakari.fun/uploads/WEBSITE/0cc1cf27-556dc8bf-03022026-1000139385.png"
+  },
+  {
+     "name": "grafico",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/8ca28a7d-5f6094bc-03022026-1000138988.png"
+  },
+  {
+     "name": "ws",
+     "image": "https://photo.hakari.fun/uploads/WEBSITE/b2a62829-d83a470f-03022026-1000138522.png"
+  }
+]
